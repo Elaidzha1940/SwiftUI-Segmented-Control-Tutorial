@@ -10,7 +10,7 @@ import SwiftUI
 //15.09
 
 struct ContentView: View {
-    
+    ///4:11
     init() {
         UISegmentedControl.appearance().selectedSegmentTintColor = .yellow
         UISegmentedControl.appearance().setTitleTextAttributes([.foregroundColor : UIColor.black], for: .selected)
