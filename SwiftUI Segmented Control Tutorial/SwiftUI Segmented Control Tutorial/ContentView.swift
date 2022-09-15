@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+//15.09
+
 struct ContentView: View {
     
     init() {
